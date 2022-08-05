@@ -7,7 +7,7 @@ i file contrassegnati con (*) sono eseguibili da MatLab, gli altri contengono fu
       controlli su input di funzioni
     createActionList.m
       crea la lista di azioni per la tabu search
-(*) cvrp[...]Main.m
+    cvrp[...]Main.m (*)
       file di setup, eseguibili in matlab
     doAction.m
       file di switch tra le varie azioni per la tabu search
@@ -23,7 +23,7 @@ i file contrassegnati con (*) sono eseguibili da MatLab, gli altri contengono fu
     kmeansCFRS.m
       implementa l'approccio cluster first route second, utilizzando
       kmeans per creare i cluster
-(*) mainAllTests.m
+    mainAllTests.m (*)
       esegue tutti i file di test forniti, crea e salva immagini e dati sulle soluzioni
     soluzioneCostruttivo[...].mat
       file di input per cvrpIterativoMain.m
